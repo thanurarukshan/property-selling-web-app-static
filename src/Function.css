@@ -1,0 +1,134 @@
+.function-main {
+    width: 100vw;
+    padding: 20px;
+}
+
+.function-main-button {
+    width: 80vw;
+    padding: 15px ;
+    border-radius: 10px;
+}
+
+.advancedSearchContent {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.advancedSearchContent button {
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.advancedSearchContent * {
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 500;
+    margin: 0px 5px;
+
+}
+.searchResAndFavItems {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.searchResAndFavItems * {
+    width: 48vw;
+}
+
+.itemTile {
+    background-color: white;
+    margin: 10px;
+    width: 250px;
+    list-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.itemTileButton {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.itemTile > strong {
+    max-width: 250px;
+}
+
+.itemTileImage {
+    border-radius: 15px;
+}
+
+.tileSet {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.function-main-button {
+    font-weight: 600px;
+    font-size: 20px;
+}
+
+.imageSlider {
+    display: flex;
+    flex-direction: row;
+}
+
+.itemTile * {
+    margin: 5px;
+}
+
+.sliderbutton {
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: transparent;
+    transition: background-color 0.5s, border-radius 0.5s;
+  }
+  
+  .sliderbutton:hover {
+    background-color: skyblue;
+    border-radius: 20px;
+  }
+.itemTile2 {
+    margin-left: 0px;
+    margin-right: 60px;
+}  
+
+/* need to change */
+/* .outerBoarder {
+    background-color: white;
+} */
+
+@media (orientation: portrait) {
+    .searchResAndFavItems {
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    
+    }
+    .advancedSearchContent * {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 5px;
+    }
+    .outerBoarder {
+        width: 100vw;
+    }
+
+    .itemTile {
+        padding: auto;
+        margin: auto;
+        margin-left: 20vw;
+    }
+
+}

@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import Headerbar from './Headerbar';
+import Function from './Function';
+import Footer from './Footer';
+
 
 function App() {
+  const [searchVal, setSearchVal]=useState("");
+  const [isSale, setSaleRent]=useState();
+  const headerSearch=(searchTerm,isSale)=>{
+    setSearchVal(searchTerm);
+    setSaleRent(isSale);
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Headerbar headerSearch={headerSearch}/>
+      <div className='App-innerdiv'>
+        <Function searchVal={searchVal} isSale={isSale}/>
+      </div>
+      <Footer />
     </div>
   );
 }

@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  max-width: 100vw !important;
 }
 
 .App-logo {
@@ -35,4 +36,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.advancedSearchButton {
+  margin: 10px;
+  width: 90vw;
+  padding: 10px;
+}
+
+.App-innerdiv {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-around;
+  
+}
+.App-innerdiv > * {
+  background-color: #c2c2c2;
+  width: 45vw;
+
+
+}
+
+.app-inner-div {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
 }

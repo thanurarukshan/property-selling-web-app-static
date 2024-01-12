@@ -1,0 +1,130 @@
+{
+	"properties": [
+		{
+			"id": "prop1",
+			"type": "House",
+			"bedrooms": 3,
+			"price": 750000,
+			"tenure": "Freehold",
+			"description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well-presented interior...",
+			"location": "Petts Wood Road, Petts Wood, Orpington",
+			"picture": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg",
+			"pictures": ["https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg","https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop1.html",
+			"locationparams": {"latitude": 37.7749, "longitude": -122.4194},
+			"added": {
+				"month": "October",
+				"day": 12,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop2",
+			"type": "Flat",
+			"bedrooms": 2,
+			"price": 399995,
+			"tenure": "Freehold",
+			"description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi-folding doors onto a secluded private courtyard garden. Both bedrooms are double-sized, and the family bathroom boasts a matching three-piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location": "Crofton Road Orpington BR6",
+			"picture": "https://us.123rf.com/450wm/iriana88w/iriana88w1402/iriana88w140200260/25668327-pretty-siding-house-with-colomn-porch-and-attached-garage-the-green-lawn-with-flower-bed-and-trimmed.jpg?ver=6",
+			"pictures": ["https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop2.html",
+			"locationparams": {"latitude": 57.7749, "longitude": -122.4194},
+			"added": {
+				"month": "September",
+				"day": 14,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop3",
+			"type": "Apartment",
+			"bedrooms": 1,
+			"price": 280000,
+			"tenure": "Leasehold",
+			"description": "A stylish one-bedroom apartment located in the heart of the city. The property features a modern kitchen, spacious living room, and a contemporary bathroom. It is within walking distance to public transportation, shopping centers, and entertainment venues. Ideal for urban living.",
+			"location": "City Center, Metropolis",
+			"picture": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwaG91c2V8ZW58MHx8MHx8fDA%3D",
+			"pictures": ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwaG91c2V8ZW58MHx8MHx8fDA%3D", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop3.html",
+			"locationparams": {"latitude": 37.7749, "longitude": -122.4194},
+			"added": {
+				"month": "November",
+				"day": 5,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop4",
+			"type": "House",
+			"bedrooms": 4,
+			"price": 950000,
+			"tenure": "Freehold",
+			"description": "Spacious four-bedroom family home with a large backyard and garden. The property features a modern kitchen, multiple living areas, and a master bedroom with an ensuite bathroom. Conveniently located near schools, parks, and shopping centers.",
+			"location": "Green Meadows, Suburbia",
+			"picture": "https://mygate.com/wp-content/uploads/2023/07/110.jpg",
+			"pictures": ["https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop4.html",
+			"locationparams": {"latitude": 37.7749, "longitude": -100.4194},
+			"added": {
+				"month": "December",
+				"day": 18,
+				"year": 2022
+			}
+		},
+		{
+			"id": "prop5",
+			"type": "Flat",
+			"bedrooms": 2,
+			"price": 550000,
+			"tenure": "Leasehold",
+			"description": "Modern two-bedroom flat with panoramic city views. The apartment features an open-plan kitchen, a spacious living room, and contemporary finishes. Building amenities include a fitness center and a rooftop terrace. Close to public transportation and trendy dining options.",
+			"location": "Highrise Towers, Downtown",
+			"picture": "https://www.tennessean.com/gcdn/presto/2019/10/11/PNAS/adf1101a-0f8c-404f-9df3-5837bf387dfd-1_Exterior_House_Beautiful_Whole_Home_Concept_House_Castle_Homes_Photo_Reed_Brown_Photography.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+			"pictures": ["https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop5.html",
+			"locationparams": {"latitude": 37.7749, "longitude": -80.4194},
+			"added": {
+				"month": "January",
+				"day": 8,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop6",
+			"type": "Townhouse",
+			"bedrooms": 3,
+			"price": 680000,
+			"tenure": "Freehold",
+			"description": "Elegant three-bedroom townhouse with classic architecture and modern interiors. The property features a gourmet kitchen, a private courtyard, and a master suite with a walk-in closet. Located in a quiet neighborhood with easy access to schools and parks.",
+			"location": "Maple Lane, Suburbia",
+			"picture": "https://t3.ftcdn.net/jpg/01/62/06/40/360_F_162064034_HI2YEgV7km3HMy0rccQczKH2vvpI4OnB.jpg",
+			"pictures": ["https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop6.html",
+			"locationparams": {"latitude": 67.7749, "longitude": 122.4194},
+			"added": {
+				"month": "March",
+				"day": 22,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop7",
+			"type": "Penthouse",
+			"bedrooms": 3,
+			"price": 1200000,
+			"tenure": "Leasehold",
+			"description": "Luxurious three-bedroom penthouse with breathtaking skyline views. The penthouse features high-end finishes, a private terrace, and exclusive access to building amenities, including a spa and concierge services. Prime location in the city center.",
+			"location": "Skyline Plaza, Metropolis",
+			"picture": "https://img.freepik.com/premium-photo/walkway-made-tiles-leading-house-with-contemporary-house-exterior_124507-67200.jpg",
+			"pictures": ["https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg", "https://housing.com/news/wp-content/uploads/2022/11/shutterstock_1715891752-1200x700-compressed.jpg"],
+			"url": "properties/prop7.html",
+			"locationparams": {"latitude": 37.7749, "longitude": 42.4194},
+			"added": {
+				"month": "April",
+				"day": 5,
+				"year": 2023
+			}
+		}
+	]
+}
